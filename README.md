@@ -5,7 +5,6 @@
 **StoryCraft**  is an AI-Powered Video Agent System that understands intent, constructs storylines, orchestrates narrative flow, and generates fully edited cinematic videos.
 
 
-
 ## ✨ Key Features
 
 - 🧠 **Intelligent Orchestration System**  
@@ -25,3 +24,18 @@
 
 - 🎯 **Fine-Grained Control & Reproduction**  
   Provides precise adjustments on scripts, visuals, audio, and style, with instant results via natural language commands.
+
+
+## 📦 Install
+### 1. Clone repository
+```
+git clone https://github.com/Yuan-ManX/StoryCraft.git
+cd StoryCraft
+```
+
+### 2. Install dependencies:
+```
+# Recommended python>=3.11
+conda create -n storycraft python=3.11
+conda activate storycraft
+```
