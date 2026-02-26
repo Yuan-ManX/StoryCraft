@@ -51,4 +51,12 @@ conda activate storycraft
 | 🎨 Creative Experimentation | Explore different storytelling styles and narratives |
 | 🔄 Batch Processing | Generate multiple videos from templates in bulk |
 
----
+## 🗺️ Roadmap
+
+- [ ] Web-based UI for easy video generation
+- [ ] Mobile app for on-the-go creation
+- [ ] Real-time collaboration features
+- [ ] Extended AI model support
+- [ ] Plugin ecosystem for custom effects
+- [ ] Performance optimization for batch processing
+- [ ] Multi-language support
