@@ -39,3 +39,16 @@ cd StoryCraft
 conda create -n storycraft python=3.11
 conda activate storycraft
 ```
+
+## 🎯 Use Cases
+
+| Use Case | Description |
+|----------|-------------|
+| 📺 Content Creation | Generate engaging social media and YouTube videos |
+| 🎬 Film Production | Assist in pre-production and post-production workflows |
+| 📢 Marketing | Create product demos, testimonials, and promotional videos |
+| 📚 Education | Produce tutorial and educational content automatically |
+| 🎨 Creative Experimentation | Explore different storytelling styles and narratives |
+| 🔄 Batch Processing | Generate multiple videos from templates in bulk |
+
+---
