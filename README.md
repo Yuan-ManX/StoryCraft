@@ -51,6 +51,7 @@ conda activate storycraft
 | 🎨 Creative Experimentation | Explore different storytelling styles and narratives |
 | 🔄 Batch Processing | Generate multiple videos from templates in bulk |
 
+
 ## 🗺️ Roadmap
 
 - [ ] Web-based UI for easy video generation
@@ -60,3 +61,34 @@ conda activate storycraft
 - [ ] Plugin ecosystem for custom effects
 - [ ] Performance optimization for batch processing
 - [ ] Multi-language support
+
+
+## 📜 Contribution & License
+
+Innovator is **open source** and welcomes contributions from researchers, developers, and creators.
+
+You can contribute by:
+
+- Submitting new features or improvements
+- Fixing bugs or optimizing performance
+- Adding new agent skills, models, or pipelines
+- Writing documentation, tutorials, or examples
+- Reporting issues or suggesting enhancements
+
+Please refer to [LICENSE](LICENSE).
+
+---
+
+
+## Cite Innovator
+
+If you use `StoryCraft` in your publication, please cite it by using the following BibTeX entry.
+
+```bibtex
+@Misc{Innovator,
+  title =        {`🎬 StoryCraft — Crafting Cinematic Stories with AI Agents.},
+  author =       {Yuan Man},
+  howpublished = {\url{https://github.com/Yuan-ManX/StoryCraft}},
+  year =         {2026}
+}
+```
